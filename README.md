@@ -1,0 +1,2 @@
+# Hockey-League-Table
+This Program scans up to 25 teams from the Eastern and Western WHL Conferences for their Games Won, Games Lost, Games Lost in OverTime and Games Lost in ShootOut. The program then computes the total games played, and points earned ( 2 per games won, 1 per SO loss, and 1 per OT win). The program then lists the teams in a table in order of points for each Conference and then another table to all teams in the WHL.
